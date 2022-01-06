@@ -89,6 +89,7 @@ h2 {
 }
 .third-right {
   width: 70%;
+  text-align: justify;
   /* padding-right: 30px; */
 }
 /* footer */
