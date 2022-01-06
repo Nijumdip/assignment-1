@@ -40,8 +40,7 @@ h2 {
   border-left: 6px solid;
   border-image: linear-gradient(#01f2fd, #021c45);
   border-image-slice: 1;
-
-  /* border-radius: 50%; */
+  padding-left: 10px;
 }
 /* section-two */
 .sec-card {
