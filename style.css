@@ -54,13 +54,20 @@ h2 {
 .card {
   width: px;
   height: 350px;
-  margin: 10px 70px;
-  padding: 10px;
-  background-color: #dfedf1;
+  margin: 10px 30px;
+  padding: 10px 20px;
+
   border-radius: 30px;
   box-shadow: 10px 10px 40px gray;
 }
 .card-one {
+  background-color: #dfedf1;
+}
+.card-two {
+  background-color: #fff0ee;
+}
+.card-three {
+  background-color: #fff4d6;
 }
 .style-img {
   width: 50%;
