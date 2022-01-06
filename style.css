@@ -6,14 +6,18 @@ body {
   display: flex;
   margin-bottom: 150px;
   margin-top: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 .left-div {
   width: 50%;
-  padding-left: 150px;
+  /* padding-left: 150px; */
   line-height: 25px;
+  margin: 0px 75px;
 }
 .right-div {
-  padding-left: 10%;
+  /* padding-left: 10%; */
+  margin-left: 50px;
 }
 h1 {
   font-size: 50px;
@@ -77,12 +81,17 @@ h2 {
 /* third-sec */
 .third-sec {
   width: 50%;
-  padding-left: 150px;
+  padding-left: 50px;
   line-height: 20px;
 }
 .third-sec img {
   width: 70%;
 }
+.third-right {
+  width: 70%;
+  /* padding-right: 30px; */
+}
+/* footer */
 .bottom-style {
   text-align: center;
   background-color: black;
@@ -94,5 +103,5 @@ h2 {
   font-weight: bold;
 }
 .bottom-style p {
-  color: #76787c;
+  color: #ffffff;
 }
